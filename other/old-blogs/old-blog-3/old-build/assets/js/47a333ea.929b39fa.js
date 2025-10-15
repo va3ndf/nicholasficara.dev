@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[3874],{7141:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","name":"Desmos","count":1,"permalink":"/blog/tags/desmos"}')}}]);

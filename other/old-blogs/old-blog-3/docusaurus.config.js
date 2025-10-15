@@ -12,7 +12,7 @@ const config = {
     title: "Nick's Digital Garden",
     tagline: "Here is everything I know.",
     url: "https://wiki.nicholasficara.dev",
-    baseUrl: "/",
+    baseUrl: "/other/old-blogs/old-blog-3/old-build/",
     onBrokenLinks: "throw",
     onBrokenMarkdownLinks: "warn",
     favicon: "img/favicon.ico",

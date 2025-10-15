@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[8835],{8623:function(l){l.exports=JSON.parse('{"allTagsPath":"/other/old-blogs/old-blog-3/old-build/blog/tags","name":"Arch Linux","count":1,"permalink":"/other/old-blogs/old-blog-3/old-build/blog/tags/arch-linux"}')}}]);

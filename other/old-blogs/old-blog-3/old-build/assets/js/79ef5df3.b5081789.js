@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[223],{8658:function(l){l.exports=JSON.parse('{"allTagsPath":"/other/old-blogs/old-blog-3/old-build/blog/tags","name":"Assembly","count":1,"permalink":"/other/old-blogs/old-blog-3/old-build/blog/tags/assembly"}')}}]);

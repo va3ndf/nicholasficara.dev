@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[8930],{5015:function(o){o.exports=JSON.parse('{"permalink":"/other/old-blogs/old-blog-3/old-build/blog/tags/operating-systems","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

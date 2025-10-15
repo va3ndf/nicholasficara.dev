@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[3042],{6082:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","name":"Fractals","count":1,"permalink":"/blog/tags/fractals"}')}}]);

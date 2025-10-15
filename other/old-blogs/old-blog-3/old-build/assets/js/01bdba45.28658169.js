@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[6734],{511:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","name":"Hackathons","count":1,"permalink":"/blog/tags/hackathons"}')}}]);

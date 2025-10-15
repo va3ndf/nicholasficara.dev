@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[9146],{8045:function(l){l.exports=JSON.parse('{"permalink":"/other/old-blogs/old-blog-3/old-build/blog/tags/svelte","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

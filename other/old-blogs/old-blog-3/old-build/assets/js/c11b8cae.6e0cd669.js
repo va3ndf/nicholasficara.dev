@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[2161],{4270:function(o){o.exports=JSON.parse('{"permalink":"/other/old-blogs/old-blog-3/old-build/blog/page/2","page":2,"postsPerPage":10,"totalPages":2,"totalCount":11,"previousPage":"/other/old-blogs/old-blog-3/old-build/blog","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

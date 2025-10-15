@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[675],{8723:function(l){l.exports=JSON.parse('{"allTagsPath":"/other/old-blogs/old-blog-3/old-build/blog/tags","name":"Machine Code","count":1,"permalink":"/other/old-blogs/old-blog-3/old-build/blog/tags/machine-code"}')}}]);

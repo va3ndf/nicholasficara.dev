@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[3723],{7609:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","name":"Operating Systems","count":1,"permalink":"/blog/tags/operating-systems"}')}}]);

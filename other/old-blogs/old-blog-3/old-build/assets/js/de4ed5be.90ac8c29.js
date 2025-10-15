@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[6107],{6811:function(o){o.exports=JSON.parse('{"permalink":"/other/old-blogs/old-blog-3/old-build/blog/tags/python","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[4365],{1168:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","name":"Machine Code","count":1,"permalink":"/blog/tags/machine-code"}')}}]);

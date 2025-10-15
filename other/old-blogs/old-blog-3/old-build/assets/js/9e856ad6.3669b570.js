@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[3026],{7587:function(o){o.exports=JSON.parse('{"permalink":"/other/old-blogs/old-blog-3/old-build/blog/tags/minecraft","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

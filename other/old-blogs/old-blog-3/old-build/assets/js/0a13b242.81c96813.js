@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[7896],{8220:function(l){l.exports=JSON.parse('{"allTagsPath":"/other/old-blogs/old-blog-3/old-build/blog/tags","name":"PIL","count":1,"permalink":"/other/old-blogs/old-blog-3/old-build/blog/tags/pil"}')}}]);
