@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[2708],{9708:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","name":"Gameboy","count":1,"permalink":"/blog/tags/gameboy"}')}}]);

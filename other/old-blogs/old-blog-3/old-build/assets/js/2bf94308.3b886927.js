@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[644],{5567:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","name":"Svelte","count":1,"permalink":"/blog/tags/svelte"}')}}]);

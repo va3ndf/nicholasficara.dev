@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[2604],{3149:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","name":"Assembly","count":1,"permalink":"/blog/tags/assembly"}')}}]);

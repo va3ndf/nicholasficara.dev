@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[8370],{4834:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","name":"Jamstack","count":1,"permalink":"/blog/tags/jamstack"}')}}]);

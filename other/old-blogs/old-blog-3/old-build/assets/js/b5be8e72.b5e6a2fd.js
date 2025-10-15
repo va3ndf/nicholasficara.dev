@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[8693],{1476:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","name":"p5js","count":1,"permalink":"/blog/tags/p-5-js"}')}}]);

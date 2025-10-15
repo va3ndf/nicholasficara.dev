@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[8057],{5601:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","name":"YouTube","count":1,"permalink":"/blog/tags/you-tube"}')}}]);

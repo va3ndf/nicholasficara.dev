@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[5930],{683:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","name":"Firebase","count":1,"permalink":"/blog/tags/firebase"}')}}]);
